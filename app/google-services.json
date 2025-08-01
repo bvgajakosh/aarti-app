@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "955523611287",
+    "firebase_url": "https://aartiapp-4183b-default-rtdb.firebaseio.com",
+    "project_id": "aartiapp-4183b",
+    "storage_bucket": "aartiapp-4183b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955523611287:android:f8f22940f2ad08710d07d2",
+        "android_client_info": {
+          "package_name": "com.nexusnova.aartiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCVViSyE5cCE1Bkew9_qvcwJN40kPi9cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
