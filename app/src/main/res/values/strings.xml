@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AartiApp</string>
+    <string name="menu">menu</string>
+    <string name="banner">banner</string>
+    <string name="language">language</string>
+    <string name="arati">आरती</string>
+    <string name="dharmic_arati">सारी धार्मिक जानकारी</string>
+
 </resources>
